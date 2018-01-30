@@ -1,3 +1,5 @@
+// Chapter 2. Types
+
 package main
 
 import "fmt"
